@@ -1,0 +1,1 @@
+netcore-swagger-outside-json
